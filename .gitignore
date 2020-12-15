@@ -3,3 +3,13 @@
 ################################################################################
 
 /.vs/ApiVendas
+/ApiVendas.Application/bin/Debug/netstandard2.0
+/ApiVendas.Application/obj
+/ApiVendas.Application.Tests/bin/Debug/netcoreapp2.1
+/ApiVendas.Application.Tests/obj
+/ApiVendas.Domain/bin/Debug/netstandard2.0
+/ApiVendas.Domain/obj
+/ApiVendas.TmdbAdapter/bin/Debug/netstandard2.0
+/ApiVendas.TmdbAdapter/obj
+/ApiVendas.WebApi/bin/Debug/netcoreapp2.1
+/ApiVendas.WebApi/obj
